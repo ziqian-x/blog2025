@@ -11,7 +11,6 @@ Looking forward to connecting—whether about **climate communication**, **behav
   <a class="btn btn-outline-secondary btn-sm" href="mailto:Ziqian.research@gmail.com">Email (Gmail)</a>
   <a class="btn btn-outline-secondary btn-sm" href="https://scholar.google.com/citations?user=dyNjCrIAAAAJ" target="_blank">Google Scholar</a>
   <a class="btn btn-outline-secondary btn-sm" href="https://github.com/ziqian-xia" target="_blank">GitHub</a>
-  <a class="btn btn-outline-secondary btn-sm" href="https://twitter.com/ziqian_xia" target="_blank">X (Twitter)</a>
   <a class="btn btn-outline-secondary btn-sm" href="https://bsky.app/profile/ziqianxia.bsky.social" target="_blank">Bluesky</a>
   <a class="btn btn-outline-secondary btn-sm" href="https://www.linkedin.com/in/ziqian-xia-8236a5183/" target="_blank">LinkedIn</a>
 </div>
@@ -25,8 +24,7 @@ Please note that I often send emails outside of standard working hours - please 
 - **Email (primary):** <a href="mailto:ziqianx@stanford.edu">ziqianx@stanford.edu</a>  
 - **Email (alt):** <a href="mailto:Ziqian.research@gmail.com">Ziqian.research@gmail.com</a>  
 
-**Social** - X (Twitter): <a href="https://twitter.com/ziqian_xia" target="_blank">ziqian_xia</a>  
-- Bluesky: <a href="https://bsky.app/profile/ziqianxia.bsky.social" target="_blank">ziqianxia.bsky.social</a>  
+**Social** - Bluesky: <a href="https://bsky.app/profile/ziqianxia.bsky.social" target="_blank">ziqianxia.bsky.social</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ziqian-xia-8236a5183/" target="_blank">linkedin.com/in/ziqian-xia-8236a5183/</a>  
 - GitHub: <a href="https://github.com/ziqian-xia" target="_blank">ziqian-xia</a>  
 

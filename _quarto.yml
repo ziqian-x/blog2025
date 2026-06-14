@@ -31,8 +31,8 @@ website:
         menu:
           - text: Software
             href: Software.qmd
-          - text: Mentorship Notes
-            href: mentorship-notes.qmd
+          # - text: Mentorship Notes
+          #   href: mentorship-notes.qmd
       - text: Personal
         href: personal-album.qmd
       - text: News

@@ -232,5 +232,23 @@
     "year": "2025",
     "place": "Yokohama",
     "title": "Grand"
+  },
+  {
+    "file": "2026-Yosemite-TunnelView.jpg",
+    "year": "2026",
+    "place": "Yosemite",
+    "title": "Tunnel View"
+  },
+  {
+    "file": "2026-Yosemite-glacierpoint.jpg",
+    "year": "2026",
+    "place": "Yosemite",
+    "title": "Glacier Point"
+  },
+  {
+    "file": "2026-Yosemite-Washburn.jpg",
+    "year": "2026",
+    "place": "Yosemite",
+    "title": "Washburn"
   }
 ]

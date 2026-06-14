@@ -21,9 +21,6 @@ about:
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=dyNjCrIAAAAJ
       target: _blank
-    - text: "{{< fa brands x-twitter >}} Twitter"
-      href: https://twitter.com/ziqian_xia
-      target: _blank
 ---
 
 :::{#hero-heading}
