@@ -64,7 +64,7 @@ website:
   repo-url: https://github.com/ziqian-x/blog2025
   open-graph: true
   twitter-card: true
-  site-url: "https://ziqian-xia.github.io/blog2025"
+  site-url: "https://ziqian-xia.tech"
 
 bibliography: references.bib
 
