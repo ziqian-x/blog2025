@@ -16,7 +16,7 @@ about:
       href: mailto:ziqianx@stanford.edu
     - icon: github
       text: GitHub
-      href: https://github.com/ziqian-xia
+      href: https://github.com/ziqian-x
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=dyNjCrIAAAAJ
